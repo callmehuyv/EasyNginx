@@ -1,4 +1,4 @@
-Version EasyLEMP for Centos-7-64x
+EasyLEMP for Centos-7-64x
 ============
 
 What is EasyLEMP ?
